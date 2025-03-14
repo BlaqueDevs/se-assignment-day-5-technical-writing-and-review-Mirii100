@@ -44,7 +44,7 @@ Focus on the basics and avoid overwhelming them with too much detail on non tech
 Use Appropriate Visuals and right format 
 		Include detailed charts, graphs, and technical diagrams  for experts . They can interpret complex visuals without much explanation.Also prefer use of  whitepapers, technical blogs, documentation, and code samples.
 
-	Use simple, visually appealing graphics for non  technicals or general audience . Infographics and step-by-step illustrations work well to convey key points.
+Use simple, visually appealing graphics for non  technicals or general audience . Infographics and step-by-step illustrations work well to convey key points.
 Structure Content for Clarity
 Experts: Use a logical, structured format that gets to the point quickly. Bullet points, numbered lists, and technical references are effective.
 General Audiences: Start with the big picture and gradually introduce details. Use storytelling or real-world examples to make the information more engaging.
@@ -116,7 +116,7 @@ At the end of a section, recap the main points in a simple way.
 
 5)Why is it important to use plain language instead of technical jargon in your writing?
 
-	a). Enhances Understanding
+a). Enhances Understanding
 Clarity: Plain language makes your message clear and easy to understand, reducing the risk of misinterpretation.
 Accessibility: It ensures that your content is accessible to readers with varying levels of expertise, including those who may not be familiar with technical terms.
 b). Broadens Your Audience
